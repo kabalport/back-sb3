@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -jar /app/backsb3.jar
+java -jar /app/app.jar
