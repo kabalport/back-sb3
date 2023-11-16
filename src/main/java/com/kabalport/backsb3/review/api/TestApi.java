@@ -1,4 +1,4 @@
-package com.kabalport.backsb3.review;
+package com.kabalport.backsb3.review.api;
 
 import org.springframework.web.bind.annotation.*;
 
