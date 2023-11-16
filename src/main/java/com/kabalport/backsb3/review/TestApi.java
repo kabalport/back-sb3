@@ -7,7 +7,7 @@ public class TestApi {
 
     @GetMapping("/hello/world")
     public String helloWorld() {
-        return "[Get] Hello, world!";
+        return "[Get] Hello, world2!";
     }
 
     @PostMapping("/hello/world")
